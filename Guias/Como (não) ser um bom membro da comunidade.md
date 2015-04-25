@@ -71,4 +71,16 @@ Pelo mesmo motivo sugerir uma distribuição nova (ou antiga mas pouco popular),
 >Apesar dessas ajudas, não haviam fórums enormes onde pudesse obter ajuda, e na altura não sabia utilizar o IRC (que mesmo que soubesse ainda teria que saber expressar o meu problema e interpretar o que me indicassem). O OpenSUSE tem um fórum próprio, mas que não é ridiculamente copulado como um AskUbuntu ou outros canais de ajuda que por ai andam.
 >Eventualmente lá me consegui entender com a coisa (e uns tempos mais tarde mudei novamente para continuar a experimentar), mas a quantidade de tempo que gastei para aprender a fazer certas coisas (que muito facilmente se encontram tutoriais para as distribuições com maiores comunidades) para muita gente é suficiente para desincentivar a experimentar coisas novas de futuro. Eu felizmente como era miúdo considerava aquilo um desafio e dei para o teimoso até ter o que quisesse feito, mas muita gente não é assim.
 
+- ###Distro fanboys
+Refiro-me a utilizadores que patrocinam uma distribuição cegamente.
+Gostar de uma distribuição, pertencer à comunidade, e promover uma distribuição é bom; mas falar dessa distribuição como se fosse a única verdadeira, e trata-la como se não fosse maioritariamente igual ás restantes é mau.
+Esse género de comportamento leva a ainda mais fragmentação da comunidade, e dificulta as pessoas novas a encontrar ajuda.
+Eu por exemplo utilizo Arch Linux, utilizo porque me encaixa, no entanto é uma distro que devido à quantidade de distro fanboys que tem é reputada por ser uma comunidade de hipsters arrogantes, que não conseguem terminar uma frase sem dizer "no meu Arch Linux"
+Ora alguém que vê, ou intuitivamente diz que se trata de um fanboy e evita experimentar a distribuição, ou vai na cantiga e vai com expectativas altíssimas a experimentar o tal magnifico Arch Linux, para vir a descobrir que sem conhecimentos vai levar 15 tentativas e cerca de 8 horas a instalar o sistema, e no final descobrir que foi mal instalado e é instável.
+Felizmente ente os utilizadores de Gentoo e Slackware não aparentam haver tantos distro fanboys, porque senão estaria tudo muito mal encaminhado.
+>**Exemplo do que (não) fazer:** `"Como instalar [nome de software do Windows] em [nome de distribuição linux]"`; Um guia para utilizar um script do PlayOnLinux, no qual os scripts são genéricos e dês de que satisfeitas as dependências funcionam em todas as distribuições.
+>O que alguém entende quando vê é que as instruções só se aplicam á distribuição mencionada,
+
+
+- - -
 Não sejam maus membros da comunidade. Temos todos uma causa em comum, e mesmo que as nossas opiniões possam divergir temos que ser o mais assertivos possível para nos destacarmos pela positiva, e não pela negativa.
