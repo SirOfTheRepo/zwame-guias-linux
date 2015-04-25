@@ -3,7 +3,7 @@
 - Imparciais, não ambicionando criar qualquer disputa entre comunidades, sendo que normalmente (consoante o bom senso) apenas deverão de ter um teor comparativo quando o tema do guia o pressupor.
 - Genéricos, a não ser que seja explicito o contrario. Um guia para "fazer A" não pode funcionar só em B, mas um guia para "Fazer A em B" não tem qualquer problema.
 - Simples. A ambição dos guias é facilitar a utilização aos novos utilizadores, não assustar os mesmos com matérias avançadas e muitos termos técnicos. Um guia que não seja destinado a utilizadores inexperientes deve de ser explicito quanto a isso.
-- [Opcional] Hospedados em um repositório de GIT[colocar url], para que a comunidade os possa alterar após o autor os ter criado(mediante pedido à moderação no caso de o autor não manifestar atividade). Quem não souber utilizar o GIT pode contribuir com alterações diretamente neste tópico, e tal é o recomendado visto que assim alterações podem ser aprovadas pela comunidade e não apenas pelo dono do repositório.
+- [Opcional] Agrupados em um [repositório de GIT](https://github.com/SirOfTheRepo/zwame-guias-linux/), para que a comunidade os possa alterar após o autor os ter criado(mediante pedido à moderação no caso de o autor não manifestar atividade). Quem não souber utilizar o GIT pode contribuir com alterações diretamente neste tópico, e tal é o recomendado visto que assim alterações podem ser aprovadas pela comunidade e não apenas pelo dono do repositório.
 - Escritos em markdown (se de acordo com a alínea anterior). Trata-se de uma linguagem similar ao BBcode que o fórum utiliza, com vários editores gráficos, e sem qualquer barreira de adoção dada a simplicidade da sintaxe.
 
 ### **Ferramentas para escrever guias em markdown**
