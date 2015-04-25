@@ -5,7 +5,4 @@ Pedidos de junção diretos também são possíveis, mas é preferível que seja
 
 Eu não tenho qualquer afiliação à moderação da ZWAME, trato-me apenas de um membro da comunidade.
 
-À extensão possível da lei, este projeto prescinde de qualquer direito sobre os conteúdos, tratando-se os mesmos de domínio publico.
-<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.
